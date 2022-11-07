@@ -1,0 +1,26 @@
+.card{
+    margin: 1rem;
+    padding: 2rem;
+}
+.card img{
+    width: 15rem;
+    margin-bottom: 2rem;
+}
+#query-form{
+    margin: 2rem;
+}
+#logo{
+    width: 2.5rem;
+    border-radius: 0.5rem;
+    margin-right: 0.75rem;
+}
+#carouselExampleSlidesOnly{
+    width: 400rem;
+}
+#why{
+    display: flex;
+}
+#content{
+    margin-left: 1rem;
+    margin-right: 2rem;
+}
